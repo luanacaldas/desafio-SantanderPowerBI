@@ -13,10 +13,10 @@ O projeto consiste em um Relatório de Vendas que aborda o Desafio de Relatório
 ## Imagens de Apresentação
 
 - **Página Inicial**
-  ![Página Inicial](ReportLucroDetalhado.png)
+  ![Página Inicial](/Imagens/ReportLucroDetalhado.png)
 
 - **Segunda Página**
-  ![Segunda Página](SalesReport.png)
+  ![Segunda Página](/Imagens/SalesReport.png)
 
 ## Recursos Adicionais
 
